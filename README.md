@@ -1,34 +1,45 @@
-# 👋 Hi, I'm G R Uday Kumar Reddy
+# G R Uday Kumar Reddy
 
-## 🚀 Data Scientist | ML Engineer | AI Enthusiast
+## Data Scientist | Machine Learning Engineer
 
-🔬 Experienced data scientist with 2.3+ years specializing in ML model development, testing, and validation. [††i6sia](#††i6sia)
+### Professional Summary
+Experienced data scientist with 2.3+ years specializing in ML model development, testing, and validation. Proven track record in implementing and evaluating AI/ML systems, with expertise in automated workflows and data quality assurance. [††i6sia](#††i6sia)
 
-### 🛠️ Tech Stack
+### Technical Skills
 - Languages: Python, SQL
 - Frameworks: TensorFlow, PyTorch, HuggingFace (Transformers, Datasets)
 - Tools: Git, Docker, Streamlit, VS Code, Flask
 - Libraries: pandas, NumPy, Matplotlib, Scikit-learn, OpenCV
-- Cloud: AWS (Redshift, S3, SageMaker)
+- Cloud Platforms: AWS (Redshift, S3, SageMaker)
 - Databases: MySQL [††i6sia](#††i6sia)
 
-### 🏢 Professional Experience
-- **Analyst** at D.E. Shaw India Private Limited, Hyderabad (Jul 2023 – Present)
-- **Research Assistant** at IIT Bombay, Mumbai (Jul 2021 – Jun 2023)
-- **Systems Engineer** at Infosys, Bangalore (Jan 2021 – Jul 2021) [††i6sia](#††i6sia) [††ij6au](#††ij6au)
+### Professional Experience
+#### Analyst, D.E. Shaw India Private Limited, Hyderabad (Jul 2023 – Present)
+- Implemented and validated ML models for Irradiance prediction, achieving RMSE of 0.43 W/m²
+- Designed automated testing workflows, reducing data processing time by 95%
+- Extracted insights from 500+ contracts using LLMs, improving data accuracy by 45%
+- Developed data validation frameworks, reducing data quality issues by 20% [††i6sia](#††i6sia)
 
-### 🏆 Achievements
-- 99.30 percentile in GATE 2020 (Electrical Engineering)
-- 3rd place in AI Challenge: Machine Learning for Renewable Energy (Dphi)
-- 1st rank in Circuitrix Competition (SVEC) [††ij6au](#††ij6au)
+#### Research Assistant, IIT Bombay, Mumbai (Jul 2021 – Jun 2023)
+- Developed and tested SVM, LSTM, and CNN-LSTM models for solar power forecasting
+- Created automated testing frameworks and deployed production-ready forecasting systems
+- Implemented transfer learning methodologies in time series forecasting [††i6sia](#††i6sia) [††ij6au](#††ij6au)
 
-### 📚 Education
-- M.Tech in Energy Systems Engineering, IIT Bombay (2021-2023) [††i6sia](#††i6sia)
+#### Systems Engineer, Infosys, Bangalore (Jan 2021 – Jul 2021)
+- Developed and tested backend systems using Python, Flask, and SQL
+- Implemented testing procedures for database operations [††ij6au](#††ij6au)
 
-### 🌟 Featured Projects
-- Enterprise Customer Churn Prediction System (83% ROC-AUC score) [††ij6au](#††ij6au)
+### Education
+Master of Technology in Energy Systems Engineering, IIT Bombay (Jul 2021 – Jun 2023) [††i6sia](#††i6sia)
 
-### 📫 Connect with me
-[LinkedIn](Your LinkedIn URL) | [LeetCode](Your LeetCode URL)
+### Notable Projects
+Enterprise Customer Churn Prediction System
+- Developed an end-to-end ML pipeline achieving 83% ROC-AUC score
+- Deployed a production-ready solution using Flask and Docker [††ij6au](#††ij6au)
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
+### Certifications
+- AWS Certified Machine Learning Associate (In progress)
+- Machine Learning (Andrew Ng) [††ij6au](#††ij6au)
+
+### Contact
+[LinkedIn](Your LinkedIn URL) | [GitHub](Your GitHub URL) | [LeetCode](Your LeetCode URL)
