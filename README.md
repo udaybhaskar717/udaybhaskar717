@@ -13,18 +13,17 @@ I am a passionate **Data Scientist** and **Machine Learning Enthusiast** current
 ---
 
 ## 💻 <span style="color: #20b2aa;">Skills</span> 
-- **Programming Languages**: Python, R
-- **Machine Learning**: Supervised, Unsupervised Learning, Time Series Forecasting, Regression, Classification
+- **Programming Languages**: Python, 
+- **Machine Learning**: Supervised, Unsupervised Learning, Time Series Forecasting,
 - **Deep Learning**: CNN, LSTM, ResNet, Transformers
 - **Tools & Frameworks**: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
 - **Database & Tools**: SQL, Docker, Git
-- **Cloud**: AWS, GCP
+- **Cloud**: AWS,
 
 ---
 
 ## 📚 <span style="color: #ff6347;">Education</span>
-- **M.Tech** in [Your Specialization] from **IIT Bombay**
-- **B.Tech** in [Your Major] from [Your College]
+- **M.Tech**  from **IIT Bombay**
 
 ---
 
@@ -36,9 +35,8 @@ I am a passionate **Data Scientist** and **Machine Learning Enthusiast** current
 ---
 
 ## 📫 <span style="color: #20b2aa;">How to Reach Me</span>
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your-email@example.com)
-- [GitHub](https://github.com/your-username)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/uday-g-r/))
+- [Email](mailto:udaybhaskar717@gmail.com)
 
 ---
 
