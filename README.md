@@ -28,7 +28,7 @@ I am a passionate **Data Scientist** and **Machine Learning Enthusiast** current
 ---
 
 ## 📫 <span style="color: #20b2aa;">How to Reach Me</span>
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/uday-g-r/))
+- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/uday-g-r/))
 - [Email](mailto:udaybhaskar717@gmail.com)
 
 ---
