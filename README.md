@@ -41,8 +41,8 @@ I am a passionate **Data Scientist** and **Machine Learning Enthusiast** current
 ---
 
 ## 🎯 <span style="color: #ff6347;">GitHub Stats</span>
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaybhaskar717&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 <!-- Show off your languages -->
 ### 🏆 Languages I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=8&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaybhaskar717&langs_count=8&layout=compact&theme=radical)
