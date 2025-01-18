@@ -8,7 +8,7 @@
 
 
 ## 🚀 <span style="color: #ff6347;">About Me</span>
-I hold a Master’s degree in **Energy Systems and Engineering** from [IIT Bombay](https://www.iitb.ac.in/) and have over 2.3 years of experience in building and deploying machine learning and deep learning models.I also possess strong practical and theoretical expertise in the development of Large Language Models (LLMs) and Generative AI.
+I hold a Master’s degree from [IIT Bombay](https://www.iitb.ac.in/) and have over 2.3 years of experience in building and deploying machine learning and deep learning models.I also possess strong practical and theoretical expertise in the development of Large Language Models (LLMs) and Generative AI.
 
 As an Analyst at D.E. Shaw India Private Limited, I have contributed significantly to leveraging machine learning and advanced analytics to drive impactful results. My role involved designing and validating predictive models using techniques such as Gradient Boosting, Random Forest, and Deep Neural Networks (DNNs), achieving impressive outcomes, including a 0.43 W/m² RMSE for irradiance prediction. I developed and implemented automated workflows, achieving a 95% reduction in data processing time, and applied advanced imputation techniques like Linear Regression, KNN, and MICE, improving data quality by 20%, which directly enhanced model performance.
 
