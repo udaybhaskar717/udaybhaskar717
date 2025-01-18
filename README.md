@@ -40,6 +40,13 @@ I encourage you to explore my **Machine Learning** and **Deep Learning** project
 
 - [**Solar Power Forecasting Tool**](https://github.com/udaybhaskar717/Gandikota_Solar_Power_Forecasting_Tool)  
   Built and deployed a production-ready forecasting system using SVM, LSTM, and CNN-LSTM models, improving RMSE by **20%** through rigorous validation protocols.
+  
+- [**MUSIFY - Music Composition using AI**](https://github.com/udaybhaskar717/Musify)  
+  Designed an **AI-powered music composition system** using piano notes to generate new musical pieces with minimal human intervention.
+- [**Mango Leaf Disease Classification**](https://github.com/udaybhaskar717/Mango_Leaves_Disease_Detection)  
+  This project utilizes **deep learning techniques**, particularly **Convolutional Neural Networks (CNNs)**, to classify mango leaf diseases into 8 distinct classes. The goal is to improve disease identification and management in mango crops, ultimately boosting agricultural yield.
+- [**Clothing Similarity Search**](https://github.com/udaybhaskar717/clothingsimillairty?tab=readme-ov-file#clothing-similarity-finder)    
+  This project leverages **SentenceTransformer('all-MiniLM-L6-v2')**, a pre-trained model based on the **MiniLM architecture**, to compute dense vector representations of clothing item descriptions. The goal was to build a system that ranks similar clothing items based on text-based descriptions.
 
 ### 📄 Explore More:
 - [My GitHub Repositories](https://github.com/udaybhaskar717)
