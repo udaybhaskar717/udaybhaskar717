@@ -12,8 +12,8 @@
 I hold a Master Degree in **Energy Systems and Engineering** from [IIT Bombay](https://www.iitb.ac.in/) I have 2.3+ years of experience building and deploying **machine learning** and **deep learning** models.
 
 Furthermore, I have a strong practical and theoretical experience in the development of Large Language Models (LLMs) and Generative AI.
-Currently, I am working as an **Analyst** at **D.E. Shaw India Private Limited**, where I have:
 
+Currently, I am working as an **Analyst** at **D.E. Shaw India Private Limited**, where I have:
 As an Analyst at D.E. Shaw India Private Limited, I have contributed significantly to leveraging machine learning and advanced analytics to drive impactful results. My role involved designing and validating predictive models using techniques such as Gradient Boosting, Random Forest, and Deep Neural Networks (DNNs), achieving impressive outcomes, including a 0.43 W/m² RMSE for irradiance prediction. I developed and implemented automated workflows, achieving a 95% reduction in data processing time, and applied advanced imputation techniques like Linear Regression, KNN, and MICE, improving data quality by 20%, which directly enhanced model performance.
 
 I also spearheaded the extraction of actionable insights from over 500+ contracts through intelligent document analysis powered by Large Language Models (LLMs), significantly reducing manual review time by 80% and enhancing data accuracy by 45%. Additionally, I focused on building robust data validation frameworks, ensuring reliability and scalability across projects.
@@ -47,6 +47,12 @@ I encourage you to explore my **Machine Learning** and **Deep Learning** project
   This project utilizes **deep learning techniques**, particularly **Convolutional Neural Networks (CNNs)**, to classify mango leaf diseases into 8 distinct classes. The goal is to improve disease identification and management in mango crops, ultimately boosting agricultural yield.
 - [**Clothing Similarity Search**](https://github.com/udaybhaskar717/clothingsimillairty?tab=readme-ov-file#clothing-similarity-finder)    
   This project leverages **SentenceTransformer('all-MiniLM-L6-v2')**, a pre-trained model based on the **MiniLM architecture**, to compute dense vector representations of clothing item descriptions. The goal was to build a system that ranks similar clothing items based on text-based descriptions.
+- [**Invoice Automatic Scanning and Text Predictions**](https://github.com/udaybhaskar717/GNR-638)  
+  This project automates the process of invoice reconciliation by detecting and extracting critical information such as **Invoice Number**, **Billing Date**, and **Total Amount** using **YOLOv4** for object detection and **Tesseract OCR** for text recognition.
+
+  **Business Overview**:  
+  Traditionally, reconciling digital invoices is a manual, time-consuming task. This project aims to automate this process, saving significant time and effort across industries that rely on invoice processing.
+  
 
 ### 📄 Explore More:
 - [My GitHub Repositories](https://github.com/udaybhaskar717)
