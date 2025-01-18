@@ -53,7 +53,7 @@ I encourage you to explore my **Machine Learning** and **Deep Learning** project
 ### 📄 Explore More:
 - [My GitHub Repositories](https://github.com/udaybhaskar717)
 - [LeetCode Profile](https://leetcode.com/u/GRUDAYKUMARREDDY)
-- [LinkedIn Profile](https://linkedin.com/in/uday-g-r)
+- [LinkedIn Profile](https://www.linkedin.com/in/uday-g-r/)
 
 
 ---
