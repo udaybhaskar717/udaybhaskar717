@@ -1,6 +1,5 @@
 <!-- Profile Header with background and style -->
 <div align="center">
-  <img src="https://github.com/udaybhaskar717/udaybhaskar717/blob/main/Screenshot_20240823_142425_Chrome.jpg" width="500px" style="border-radius: 50%;" />
   <h1 style="font-size: 36px; color: #ff7f50;">Hi, I'm G R Uday Kumar Reddy 👋</h1>
   <p style="font-size: 20px; color: #20b2aa;">I'm passionate about Machine Learning, Data Science, Large Language Models (LLMs) and Generative AI </p>
 </div>
